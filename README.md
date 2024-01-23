@@ -18,4 +18,4 @@ Here are some ideas to get you started:
   ## ☕ Full stack js developer.
    - React - recat native - redux toolkit - tailwind - nodejs - express - 
   ## 🥧 Indie game development.
-    - unity - c# - rust - bevy engine
+   - unity - c# - rust - bevy engine - 
